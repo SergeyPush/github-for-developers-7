@@ -1,5 +1,5 @@
-- Name
-- Kiev 
-- Fruits
-- French
-- Colour : Green
+** Name ** : Sergey
+** City ** : Kiev
+** Fav food ** : Fruits
+** Hobby ** : French
+** Color ** : Green
